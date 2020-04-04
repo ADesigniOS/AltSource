@@ -40,6 +40,8 @@
 				"https://quarksources.imfast.io/files/Chimera/assets/image2.png"
       ]
     },
+	    
+	    {"apps":[{"beta":false,"bundleIdentifier":"com.hoahuynh.lira","developerName":"Yang Team","downloadURL":"https://ycs-dev.github.io/lira.ipa","iconURL":"https://github.com/Ycs-Dev/ycs-dev.github.io/raw/master/logo.png","localizedDescription":"Jaibreak iOS 13 SSH","name":"LiRa13","screenshotURLs":[""],"size":4000,"subtitle":"Jailbreak iOS 13","tintColor":"018084","version":"1.3~a","versionDate":"2020-04-4T14:00:00-07:00","versionDescription":"** open SSH **\n\n"}],"identifier":"com.example.source","name":"LiRa13","news":[{"appID":"com.hoahuynh.lira","caption":"jailbreak iOS 13","date":"2020-4-4","identifier":"com.hoahuynh.lira","imageURL":"https://github.com/Ycs-Dev/ycs-dev.github.io/raw/master/logo.png","notify":false,"tintColor":"000000","title":"Lira3","url":"https://ycs-dev.github.io/lira.ipa"}],"userInfo":{}},
     {
       "name": "iTorrent",
       "bundleIdentifier": "ru.nonamedude.iTorrent",
